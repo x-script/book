@@ -9,6 +9,7 @@
   * [Custom navbar](custom-navbar.md)
   * [Cover page](cover.md)
   * [Docker](/docker/)
+  * [Flask](/flask/install.md)
 
 * 工具
 
