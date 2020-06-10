@@ -7,7 +7,7 @@
   * [uWSGI](/uwsgi/install.md)
   * [Writing more pages](more-pages.md)
   * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+  * [Python](/python/)
   * [Docker](/docker/)
   * [Flask](/flask/install.md)
 
